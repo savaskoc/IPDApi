@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "autoloader": {
+    "autoload": {
         "psr-4": {
             "Hyperion\\Ipd\\": "src/"
         }
